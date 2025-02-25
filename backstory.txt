@@ -1,0 +1,15 @@
+A long time ago...
+
+You are a human fighter who is level 1.
+
+You have a broadsword and leather armor which gives you
+an armor class (AC) of 15. The broadsword deals 1d8 damage
+plus strength modifier (which is +1 - STR is 12).
+
+You have 12 hit points (HP, d10 +2 CON) - be careful.
+
+Don't die...
+
+Chin up!
+
+You are attacked by a GOBLIN!
